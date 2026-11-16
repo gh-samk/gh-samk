@@ -18,7 +18,7 @@ Diese Projekte von [firsttris](https://github.com/firsttris) empfehle ich:
 - **[Haben](https://github.com/firsttris/haben)**: hier trage ich selbst als Contributor bei.
 - **[Kontext](https://github.com/firsttris/kontext)**
 - **[Schreibzeug](https://github.com/firsttris/schreibzeug)**
-- **[Belegt](https://github.com/firsttris/belegt)**
+- **[Belegt](https://github.com/firsttris/belegt)**: auch hier trage ich selbst als Contributor bei.
 
 ## Wofür ich stehe
 
