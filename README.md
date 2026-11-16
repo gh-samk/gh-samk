@@ -13,6 +13,15 @@ statt sie damit allein zu lassen. Mein Maßstab: einfach, verständlich, gut gef
 ## Software, die ich mag und unterstütze
 
 Ich unterstütze liebend gerne gute Software auf GitHub, die ich selbst mag und einsetze.
+
+**[Froxlor](https://github.com/Froxlor/Froxlor)**: das Open-Source-Hosting-Panel. Dafür habe ich Erweiterungen geschrieben:
+[Project View](https://github.com/gh-samk/froxlor-project-view),
+[Backup](https://github.com/gh-samk/froxlor-backup),
+[Mail-Aliases](https://github.com/gh-samk/froxlor-mail-aliases),
+[Mail-Design](https://github.com/gh-samk/froxlor-mail-design),
+[Agency-Theme](https://github.com/gh-samk/froxlor-agency-theme) und
+[One-Click-Update](https://github.com/gh-samk/froxlor-one-click-update).
+
 Diese Projekte von [firsttris](https://github.com/firsttris) empfehle ich:
 
 - **[Haben](https://github.com/firsttris/haben)**: hier trage ich selbst als Contributor bei.
